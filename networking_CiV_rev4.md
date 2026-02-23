@@ -1,7 +1,6 @@
 # Connectivity Is Vulnerability: On the Inseparability of Network Performance and Network Fragility in Connected Systems — A Graph-Theoretic Derivation
 
-**[da5ch0]**, with assistance from something that thinks in language
-every link you add is a link they'll use. you already know this. now prove it.
+**[da5ch0]**, with assistance from a fellow hacker --S.
 
 ---
 
